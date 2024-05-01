@@ -3,6 +3,11 @@
 ### Overview
 This project analyzes the trends in Electric Vehicle (EV) registrations based on available data. It examines the historical data of EV registrations, forecasts future registrations, and draws insights into the growth of the EV market.
 
+### Data Source
+
+The data used for analysis is sourced from [StatsO](https://statso.io/market-size-of-evs-case-study/), a platform providing comprehensive market research and analytics. The dataset includes information on EV registrations, enabling a detailed examination of market trends and dynamics.
+
+
 ### Methodology
 * Data Analysis: Historical EV registration data is analyzed to identify trends and patterns in adoption rates.
 * Forecasting: Utilizing growth rate analysis from previous years, a forecast is generated to predict future EV registrations.
